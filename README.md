@@ -5,6 +5,7 @@
 Italo Navarrete
 
 Nahim Patiño
+
 [Integrante 3]
 
 [Integrante 4]
