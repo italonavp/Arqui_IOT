@@ -2,10 +2,9 @@
 ## 💻 Curso: Arquitectura del Computador
 ## 👩‍💻 Integrantes:
 
-Italo [Tu Apellido]
+Italo Navarrete
 
-[Integrante 2]
-
+Nahim Patiño
 [Integrante 3]
 
 [Integrante 4]
@@ -26,7 +25,7 @@ Los datos se procesan en una Raspberry Pi Pico W, que compara los valores con do
 
 ### 🔴 Estado 3: Supera ambos umbrales → fruta en mal estado.
 
-Si se detecta un estado de posible deterioro, el sistema activa un LED de alerta y envía los datos a la nube mediante ThingSpeak.
+Si se detecta un estado de posible deterioro, el sistema envía los datos a la nube mediante ThingSpeak.
 
 ## 💿 2. Arquitectura del Sistema
 ### Flujo general:
@@ -81,6 +80,7 @@ MQ-135	GP26 (ADC0)	Entrada analógica de gas
 DHT11	GP16	Temperatura y humedad
 LED	GP15	Indicador de estado
 GND / VCC	–	Alimentación y referencia
+
 ## ☁️ 7. Conectividad IoT
 
 Plataforma: nombre plat
@@ -94,7 +94,7 @@ Frecuencia: Cuando el valor cambia de estado
 ## 🧱 8. Diseño 3D del Case
 
 📁 /3D/case.stl
-Diseñado.
+Diseñado en... .
 
 ## 🎥 9. Video Demostrativo
 
