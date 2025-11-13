@@ -1,6 +1,6 @@
 # 🍌 Sistema IoT de Monitoreo del Estado de Frutas (BananaSense)
 ## 💻 Curso: Arquitectura del Computador
-##👩‍💻 Integrantes:
+## 👩‍💻 Integrantes:
 
 Italo [Tu Apellido]
 
@@ -10,7 +10,7 @@ Italo [Tu Apellido]
 
 [Integrante 4]
 
-##📆 Fecha
+## 📆 Fecha
 
 Noviembre 2025
 
@@ -94,7 +94,7 @@ Frecuencia: Cuando el valor cambia de estado
 ## 🧱 8. Diseño 3D del Case
 
 📁 /3D/case.stl
-Diseñado en Tinkercad, con ranuras de ventilación y espacio para sensores visibles.
+Diseñado.
 
 ## 🎥 9. Video Demostrativo
 
