@@ -1,4 +1,4 @@
-# 🍌 Sistema IoT de Monitoreo del Estado de Frutas (BananaSense)
+# 🍌 Sistema IoT de Monitoreo del Estado de Frutas ("nombre proyecto")
 ## 💻 Curso: Arquitectura del Computador
 ## 👩‍💻 Integrantes:
 
