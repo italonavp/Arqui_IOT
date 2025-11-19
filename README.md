@@ -2,13 +2,10 @@
 ## 💻 Curso: Arquitectura del Computador
 ## 👩‍💻 Integrantes:
 
-Italo Navarrete
+####Italo Navarrete
+####Nahim Patiño
 
-Nahim Patiño
 
-[Integrante 3]
-
-[Integrante 4]
 
 ## 📆 Fecha
 
