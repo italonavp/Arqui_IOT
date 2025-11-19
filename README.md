@@ -31,17 +31,12 @@ Si se detecta un estado de posible deterioro, el sistema envía los datos a la n
 ## 💿 2. Arquitectura del Sistema
 ### Flujo general:
 
-El sensor MQ-135 detecta la concentración de gases.
-
-El sensor DHT11 mide la temperatura.
-
-La Pico W procesa los datos y compara con los umbrales.
-
-Se determina el estado de la fruta.
-
-Si el valor supera los límites, se enciende el LED de alerta.
-
-Los datos se envían a la plataforma ThingSpeak para su monitoreo remoto.
+-El sensor MQ-135 detecta la concentración de gases.
+-El sensor DHT11 mide la temperatura.
+-La Pico W procesa los datos y compara con los umbrales.
+-Se determina el estado de la fruta.
+-Si el valor supera los límites, se enciende el LED de alerta.
+-Los datos se envían a la plataforma ThingSpeak para su monitoreo remoto.
 
 📊 El diagrama de bloques se encuentra en /docs/arquitectura.png
 
