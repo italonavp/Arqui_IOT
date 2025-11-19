@@ -2,8 +2,8 @@
 ## 💻 Curso: Arquitectura del Computador
 ## 👩‍💻 Integrantes:
 
-###Italo Navarrete
-###Nahim Patiño
+#### Italo Navarrete
+#### Nahim Patiño
 
 
 
