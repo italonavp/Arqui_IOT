@@ -4,7 +4,8 @@
 
 #### Italo Navarrete
 #### Nahim Patiño
-
+#### Domenico Solimano
+#### Joaquin Rodriguez
 
 
 ## 📆 Fecha
@@ -55,14 +56,10 @@ LED + resistencia 220Ω	Señal visual de alerta ante valores fuera de rango.	<im
 ### Descripción:
 
 Inicio
-
-Lectura de sensores (MQ-135 y DHT11)
-
-Comparación con umbrales
-
-Determinación de estado
-
-Activar LED / Enviar datos a ThingSpeak
+1.Lectura de sensores (MQ-135 y DHT11)
+2.Comparación con umbrales
+3.Determinación de estado
+4. Dependiendo de la determinacion de estado, enviar datos a la nube
 
 Repetir
 
@@ -74,15 +71,17 @@ DHT11	GP16	Temperatura y humedad
 LED	GP15	Indicador de estado
 GND / VCC	–	Alimentación y referencia
 
+INSERTAR IMAGEN DEL DIAGRAMA
+
 ## ☁️ 7. Conectividad IoT
 
-Plataforma: nombre plat
+Plataforma: Ubidots
 
-Método: Envío HTTP GET mediante WiFi
+Método: Envío de datos mediante WiFi
 
-Campos registrados: Gas (ppm), Temperatura (°C), Estado
+Campos registrados: Gas, Temperatura (°C), Estado
 
-Frecuencia: Cuando el valor cambia de estado
+Frecuencia: Cuando se supera ambos umbrales
 
 ## 🧱 8. Diseño 3D del Case
 
@@ -108,7 +107,7 @@ Documento colaborativo de tareas, avances y fechas.
 
 ## 🧾 12. Conclusiones
 
-Se logró implementar un sistema funcional para detectar el estado de madurez del plátano usando sensores IoT.
+Se logró implementar un sistema funcional para detectar el estado de madurez de la fruta usando sensores IoT.
 
 El sistema puede escalarse para diferentes tipos de frutas y entornos.
 
