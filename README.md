@@ -38,13 +38,14 @@ Si se detecta un estado de posible deterioro, el sistema envía los datos a la n
 
 📊 El diagrama de bloques se encuentra en /docs/arquitectura.png
 
-## 🧠 3. Componentes Utilizados
-Componente	Descripción	Imagen
-Raspberry Pi Pico W	Microcontrolador principal con conectividad WiFi.	<img src="./docs/pico.jpg" width="180">
-Sensor MQ-135	Mide gases relacionados con la madurez o descomposición de la fruta.	<img src="./docs/mq135.jpg" width="180">
-Sensor DHT11	Mide temperatura y humedad ambiental.	<img src="./docs/dht11.jpg" width="180">
-LED + resistencia 220Ω	Señal visual de alerta ante valores fuera de rango.	<img src="./docs/led.jpg" width="180">
-## 💻 4. Código Fuente
+## 🧠 3. Componentes Utilizados 
+
+| Componente            | Descripción                                                | Imagen |
+|----------------------|------------------------------------------------------------|--------|
+| **Raspberry Pi Pico W** | Microcontrolador principal con conectividad WiFi.          | <img src="./assets/pico.png" width="130"> |
+| **Sensor MQ-135**       | Mide gases relacionados con la madurez o descomposición.   | <img src="./assets/mq135.png" width="130"> |
+| **Sensor DHT11**        | Mide temperatura y humedad ambiental.                      | <img src="./assets/dht11.png" width="130"> |
+| **Pantalla LCD**        | Muestra los resultados del estado en la pantalla LCD       | <img src="./assets/led.png" width="130"> |
 
 📂 Ubicación: /src/main.py
 
